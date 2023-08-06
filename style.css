@@ -1,0 +1,20 @@
+div{
+    height: 20px;
+    background-color: black;
+    text-decoration: none;
+}
+button{
+    background-color: yellow;
+
+}
+#logo{
+    color: yellow;
+    font-size: 25px;
+}
+body{
+    border: 5px solid rgb(4, 26, 131);
+}
+a{
+    margin-right: 200px;
+    text-decoration: none;
+}
